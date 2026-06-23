@@ -1,0 +1,6 @@
+{
+  "name": "Noção",
+  "description": "Clone do Notion avançado com suporte a plugins Javascript personalizados, sincronização em tempo real via Express e console SQL interativo para consulta de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
